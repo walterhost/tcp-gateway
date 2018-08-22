@@ -35,6 +35,7 @@
     <!-- base info end. -->
     <!-- defined info start. -->
     <bean id="proxy" class="com.linkedkeeper.tcp.server.TestSimpleProxy"/>
+    <bean id="testNotify" class="com.linkedkeeper.tcp.server.TestNotify"/>
     <!-- defined info end. -->
 </beans>
 
